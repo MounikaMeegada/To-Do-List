@@ -1,0 +1,1 @@
+Python To-Do List Command-Line Application that allows users to add, view, mark as completed and remove tasks. Tasks are created in a json file (tasks. json) for continuos storage. The menu of the program is simple and consists of numbered options for working with tasks. 
